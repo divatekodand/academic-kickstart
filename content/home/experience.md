@@ -73,7 +73,7 @@ date_format = "Jan 2006"
 
   Projects :
 
-  * Active Noise Control : Implemented FxLMS algorithm on a microcontroller (based on TI TMS320C6748) unit which controlled noise control headphones.
-  * Digital Video Watermarking for metadata embedding : Developed and implemented an algorithm for embedding metadata directly in compressed MPEG-4 video bit-stream.
+  * **Active Noise Control** : Implemented FxLMS algorithm on a microcontroller (based on TI TMS320C6748) unit which controlled noise control headphones.
+  * **Digital Video Watermarking for metadata embedding** : Developed and implemented an algorithm for embedding metadata directly in compressed MPEG-4 video bit-stream.
   """
 +++
