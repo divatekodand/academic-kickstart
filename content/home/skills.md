@@ -15,21 +15,57 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
+  icon = "low-vision"
+  icon_pack = "fas"
+  name = "Computer Vision"
+  description = "90%"
+
+[[feature]]
+  icon = "brain"
+  icon_pack = "fas"
+  name = "Machine Learning / Deep Learning"
+  description = "90%"
+
+[[feature]]
+  icon = "taxi"
+  icon_pack = "fas"
+  name = "Perception pipeline for Autonomous Vehicles"
+  description = "80%"
+
+[[feature]]
+  icon = "code"
+  icon_pack = "fas"
+  name = "C/C++"
   description = "90%"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = "100%" 
+
+[[feature]]
+  icon = "tenge"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Tensorflow"
+  description = "90%"
+
+[[feature]]
+  icon = "fire"
+  icon_pack = "fas"
+  name = "Pytorch"
+  description = "90%"
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "git-square"
+  icon_pack = "fab"
+  name = "git"
+  description = "90%"
+
+[[feature]]
+  icon = "server"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Big Data System (Hadoop Spark, Storm, Distributed Tensorflow)"
+  description = "90%"
 
 +++

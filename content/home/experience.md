@@ -45,7 +45,7 @@ date_format = "Jan 2006"
 
   Key Features :
 
-  * Developed and implemented Deep Learning Models for detection several brain abnormalities such as Hemorrhage, Lesion, Stoke using 3D CT images of brain.
+  * Developed and implemented Deep Learning Models for detecting several brain abnormalities such as Hemorrhage, Lesion, Stroke using 3D CT images of brain.
   """
 
 [[experience]]

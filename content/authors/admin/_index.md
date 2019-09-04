@@ -48,7 +48,7 @@ social:
   link: https://www.linkedin.com/in/mohandivate/
 - icon: cv
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: files/cv.pdf
 - icon: github
   icon_pack: fab
   link: https://github.com/divatekodand
@@ -68,6 +68,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a graduate student in the Department of Computer Science at University of Wisconsin-Madison looking for full time opportunities starting summer 2020. My research interests include Computer Vision, Deep Learning/Machine Learning and Perception in Autonomous Vehicles.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I'm particularly interested in applying Computer Vision to build robust Perception pipeline for autonomous vehicles. I interned at ARGO AI during summer 2019 where, I spent most of my time building Deep LiDAR pipeline (LiDAR based 3D object detection). Also, as a result of my internship, I gained knowledge about end-to-end perception, tracking, prediction and motion planning pipeline for autonomous vehicles. Additionally, I can fluently program in C, C++ and Python. Further, I have experience using Deep Learning frameworks (Tensorflow and Pytorch).

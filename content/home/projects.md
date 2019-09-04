@@ -11,6 +11,15 @@ subtitle = ""
 [content]
   # Page type to display. E.g. project.
   page_type = "project"
+
+[[project]]
+  title = "SerFer"
+  company = "University of Wisconsin-Madison"
+  company_url = "https://www.wisc.edu/"
+  location = "Madison, Wisconsin"
+  date_start = "2018-09-01"
+  date_end = "2019-05-31"
+  description = """ Automated Analysis of 3D CT images of Brain using Deep Learning."""
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
