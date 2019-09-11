@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\config",
+    "\\config\\_default",
+    "\\content",
+    "\\content\\authors",
+    "\\content\\authors\\admin",
+    "\\content\\home",
+    "\\content\\publication",
+    "\\themes\\academic",
+    "\\themes\\academic\\exampleSite\\config",
+    "\\themes\\academic\\exampleSite\\config\\_default"
+  ],
+  "SelectedNode": "\\config\\_default\\menus.toml",
+  "PreviewInSolutionExplorer": false
+}
