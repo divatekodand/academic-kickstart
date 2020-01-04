@@ -1,6 +1,6 @@
 ## My Website
 
-1. Build site locall
+1. Build site locally
 ```
 hugo server --disableFastRender
 ```
